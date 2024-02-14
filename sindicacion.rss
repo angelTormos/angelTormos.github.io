@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss>
+    <channel>
+        <title>Festivales Castellón</title>
+        <link>https://github.com/angelTormos</link>
+        <description>Tu página para saber todo lo necesario sobre los festivales en Castellón</description>
+        <item>
+            <title>Arenal Sound</title>
+            <link>https://arenalsound.com</link>
+            <description>Arenal Sound Festival es un festival de música independiente 
+            que se celebra en la playa El Arenal, en la localidad de Burriana 
+            (provincia de Castellón, España), durante la primera semana de agosto 
+            desde 2010. Se caracteriza por su gran afluencia de jóvenes y se 
+            diferencia de otros festivales por su cercanía a la playa al tener uno de 
+            sus escenarios sobre la misma arena. Se ha convertido en uno de los 
+            referentes de la temporada estival nacional. </description>
+        </item>
+            <item>
+            <title>Festival Internacional de Benicassim</title>
+            <link>https://fiberfib.com/ca/</link>
+            <description>El Festival Internacional de Benicàssim, también llamado FIB, 
+            se caracteriza por su eclecticismo y su orientación hacia las tendencias más innovadoras 
+            frente a otros festivales españoles más orientados a estilos musicales específicos o asentados. 
+            Es también uno de los de mayor proyección internacional, siendo su renombre a nivel europeo 
+            suficiente para atraer a numerosos visitantes de los países vecinos. </description>
+        </item>
+    </channel>
+</rss>
