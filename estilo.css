@@ -33,6 +33,13 @@ body{
     background-size: 2000px 1800px;
 }
 
+video {
+    border: 5px solid #ff3c84;
+    width: 350px;
+    height: 270px;
+    border-radius: 5px;
+}
+
 table,th,td{
     border: 2px solid;
     border-color: #f79abc;

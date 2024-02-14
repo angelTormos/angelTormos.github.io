@@ -45,7 +45,9 @@ ol, ul {
 }
 
 video {
-    border: 5px solid #ff3c84;
+    border: 5px solid #ff6600;
+    width: 350px;
+    height: 270px;
     border-radius: 5px;
 }
 
@@ -155,7 +157,7 @@ input[type="submit"]:hover {
 }
 
 footer {
-    background-color: #333;
+    background-color: #2196F3;
     color: #fff;
     text-align: center;
     padding: 10px 0;
