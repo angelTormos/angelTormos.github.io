@@ -14,6 +14,14 @@
             diferencia de otros festivales por su cercanía a la playa al tener uno de 
             sus escenarios sobre la misma arena. Se ha convertido en uno de los 
             referentes de la temporada estival nacional. </description>
+            <language>es-ES</language>
+            <image>
+            <title>Logo Arenal Soung</title>
+            <url>https://github.com/angelTormos/Multimedia/ArenaLogo.png</url>
+            <link>https://github.com/angelTormos</link>
+            <width>90</width>
+            <height>36</height>
+            </image>
         </item>
             <item>
             <title>Festival Internacional de Benicassim</title>
@@ -23,6 +31,14 @@
             frente a otros festivales españoles más orientados a estilos musicales específicos o asentados. 
             Es también uno de los de mayor proyección internacional, siendo su renombre a nivel europeo 
             suficiente para atraer a numerosos visitantes de los países vecinos. </description>
+            <language>es-ES</language>
+            <image>
+            <title>Título de la Imagen</title>
+            <url>https://github.com/angelTormos/Multimedia/FIBLogo.png</url>
+            <link>https://github.com/angelTormos</link>
+            <width>90</width>
+            <height>36</height>
+            </image>
         </item>
     </channel>
 </rss>
