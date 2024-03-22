@@ -1,3 +1,20 @@
+
+
+/*Tablet y movil*/
+@media (max-width: 768px) {
+    video {
+       
+        width: 100%;
+    }
+}
+
+/*Ordenador*/
+@media (min-width: 769px) {
+    video {
+        width: 25%;
+    }
+}
+
 header{
     background-color: #ff3c84;
     text-align: center;
@@ -34,10 +51,9 @@ body{
 
 video {
     border: 5px solid #ff3c84;
-    width: 350px;
-    height: 270px;
     border-radius: 5px;
 }
+
 
 table,th,td{
     border: 2px solid;
