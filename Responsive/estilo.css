@@ -1,10 +1,8 @@
-
-
 /*Tablet y movil*/
 @media (max-width: 768px) {
     video {
        
-        width: 100%;
+        width: 97%;
     }
 }
 
@@ -61,13 +59,27 @@ table,th,td{
     text-align: center;
     align-items: center;
 }
+
+/*Tablet y movil*/
+@media (max-width: 768px) {
+    .tabla1{
+        
+        
+    }
+}
+
+/*Ordenador*/
+@media (min-width: 769px) {
+    .tabla1 {
+        margin-left: 11%;
+        margin-top: 1%;
+        margin-bottom: 1%;
+    }
+}
+
 th{
     background-color: #f79abc;
     
-}
-.tabla1{
-    margin-left: 11%;
-    margin-top: 1%;
 }
 
 #formulario {
@@ -78,6 +90,7 @@ th{
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 40px;
 }
 
 #formulario label {
