@@ -13,6 +13,48 @@
     }
 }
 
+/*Tablet y movil*/
+@media (max-width: 768px) {
+    body{
+        background-color: rgba(208,219,224,255);
+        background-size: 2000px 1800px;
+    }
+}
+
+/*Ordenador*/
+@media (min-width: 769px) {
+    body{
+        background-image: url(./Multimedia/fondo.jpg);
+        background-size: 2000px 1800px;
+    }
+}
+
+/*Tablet y movil*/
+@media (max-width: 768px) {
+    nav {
+        background-color: #f79abc;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    nav a {
+        margin-bottom: 5px;
+    }
+}
+
+/*Ordenador*/
+@media (min-width: 769px) {
+    nav{
+        background-color: #f79abc;
+        font-size: 20px;
+}
+
+nav a{
+    text-decoration: none;
+}
+}
+
 header{
     background-color: #ff3c84;
     text-align: center;
@@ -28,23 +70,9 @@ h1{
 
 }
 
-nav{
-        background-color: #f79abc;
-        font-size: 20px;
-}
-
-nav a{
-    text-decoration: none;
-}
-
 nav a:hover{
     background: #ff3c84;
     color: #f79abc;
-}
-
-body{
-    background-image: url(./Multimedia/fondo.jpg);
-    background-size: 2000px 1800px;
 }
 
 video {
@@ -58,23 +86,6 @@ table,th,td{
     border-color: #f79abc;
     text-align: center;
     align-items: center;
-}
-
-/*Tablet y movil*/
-@media (max-width: 768px) {
-    .tabla1{
-        
-        
-    }
-}
-
-/*Ordenador*/
-@media (min-width: 769px) {
-    .tabla1 {
-        margin-left: 11%;
-        margin-top: 1%;
-        margin-bottom: 1%;
-    }
 }
 
 th{
